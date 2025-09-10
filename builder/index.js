@@ -3,7 +3,7 @@ class Computer {
   constructor() {
     this.cpu = null;
     this.gpu = null;
-    this.ram = null;
+    this.ram = null;  
     this.storage = null;
     this.powerSupply = null;
     this.caseType = null;
